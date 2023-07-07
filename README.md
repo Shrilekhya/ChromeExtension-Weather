@@ -1,5 +1,7 @@
 # ChromeExtension-Weather
 This chrome extension makes it handy to get to know the temperature and what the weather's like. Also, there's no need to enter your location. It automatically gets it from your browser.
+
+
 https://youtube.com/shorts/ELw3Wfjls0I?feature=share
 
 # UserInterface
